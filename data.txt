@@ -1,0 +1,11 @@
+
+Name: kartik
+Age: 41
+Hydration Goal: 54
+Total Intake: 0
+Reminder Interval: 1800 seconds
+Name: yash
+Age: 47
+Hydration Goal: 14
+Total Intake: 0
+Reminder Interval: 1800 seconds
